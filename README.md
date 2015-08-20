@@ -24,7 +24,7 @@ With html5 and all the sectioning elements it's possible to have a good semantic
     </main>
 
 #### pros
-- Good css outline 
+- Good css outline [1](http://html5doctor.com/outlines/)
 - Consistent
 - ...
 
