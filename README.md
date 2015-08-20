@@ -1,4 +1,4 @@
-# h1-debate
+# h1 Debate
 
 There is many ways to structure an html page. Some may prefer good semantic and other pure SEO. This is an attempts to define if really one of these method has significant impact on SEO ranking.
 
